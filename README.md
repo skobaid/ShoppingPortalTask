@@ -43,7 +43,7 @@ This project is a simple shopping portal built with Node.js and Express, featuri
 
 *** Delete Task
 - **DELETE /tasks/:title**
-  - Delete a task by its ID.
+  - Delete a task by its title.
 
 ** Contributors
 
