@@ -18,9 +18,8 @@ This project is a simple shopping portal built with Node.js and Express, featuri
 1. Clone the repository to your local machine.
 2. Install dependencies using `npm install`.
 3. Set up a MongoDB database and obtain the connection URI.
-4. Create a `.env` file in the root directory and add the MongoDB connection URI as `MONGODB_URI=<your_connection_uri>`.
-5. Start the server using `npm start`.
-6. The server should now be running at `http://localhost:4500`.
+4. Start the server using `npm start`.
+5. The server should now be running at `http://localhost:4500`.
 
 ** API Endpoints
 
